@@ -1,14 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+15th June 2021
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Python script to create an interactive experience in the terminal to explore data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The script was built according to the requirements and with help of the Udacity Nanodegree Program: Programming for Data Science with Python
+Template repository used: https://github.com/udacity/pdsnd_github
